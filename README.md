@@ -33,3 +33,15 @@ Algorithms used:
 
 
 • Please do ⭐ the repository, if it helped you in anyway.
+
+AI Marriage Prediction
+
+![alt test](https://github.com/Arun-purakkatt/ML_Models_deployment/blob/master/Images/AI_marriage_prediction.jpg)
+
+Insurance Price Prediction
+
+![alt text](https://github.com/Arun-purakkatt/ML_Models_deployment/blob/master/Images/Insurance_price_prediction.jpg)
+
+Real Estate Price Prediction
+
+![](https://github.com/Arun-purakkatt/ML_Models_deployment/blob/master/Images/Realestate_price_prediction_runningOnlocalmachine.jpg)
