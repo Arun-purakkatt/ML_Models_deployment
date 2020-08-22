@@ -24,3 +24,6 @@ Insurance Price Prediction
 Real Estate Price Prediction
 
 ![](https://github.com/Arun-purakkatt/ML_Models_deployment/blob/master/Images/Realestate_price_prediction_runningOnlocalmachine.jpg)
+
+Bank note Authentication
+![](https://github.com/Arun-purakkatt/ML_Models_deployment/blob/master/Images/bankNoteAuthentication.png)
